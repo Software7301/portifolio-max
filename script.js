@@ -90,10 +90,10 @@ document.addEventListener('DOMContentLoaded', function() {
             
             // Add your social media URLs here
             const socialUrls = {
-                'fab fa-instagram': 'https://instagram.com/yourusername',
-                'fab fa-linkedin': 'https://linkedin.com/in/yourusername',
-                'fab fa-github': 'https://github.com/yourusername',
-                'fab fa-twitter': 'https://twitter.com/yourusername'
+                'fab fa-instagram': 'https://www.instagram.com/maxdev2024/?next=%2F',
+                'fab fa-linkedin': 'https://linkedin.com/in/max-lima-dev',
+                'fab fa-github': 'https://github.com/Software7301',
+                'fab fa-twitter': 'https://twitter.com/maxlimadev'
             };
             
             const url = socialUrls[platform];
